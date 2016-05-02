@@ -30,11 +30,25 @@ func main() {
 	log.Println(history)
 }
 ```
-# Public API
-```
 
-```
+# Public API
+
+#### PublicAPI.LastPrice
+#### PublicAPI.Ticker
+#### PublicAPI.Trades
+#### PublicAPI.Depth
+#### PublicAPI.Withdraw
+#### PublicAPI.DepositHistory
+#### PublicAPI.WithdrawHistory
 
 # Private API
-```
-```
+
+#### PrivateAPI.GetInfo
+#### PrivateAPI.ActiveOrders
+#### PrivateAPI.Trade
+#### PrivateAPI.Cancel
+#### PrivateAPI.Withdraw
+#### PrivateAPI.DepositHistory
+#### PrivateAPI.WithdrawHistory
+
+
